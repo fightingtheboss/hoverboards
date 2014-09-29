@@ -1,5 +1,5 @@
 /*****************************************************************************
-  hoverboard
+  hoverboards
 ******************************************************************************/
 * {
   box-sizing: border-box; }
@@ -43,9 +43,8 @@ a:hover {
 .list-unstyled {
   margin: 0;
   padding: 0; }
-
-.list-unstyled > li {
-  list-style-type: none; }
+  .list-unstyled > li {
+    list-style-type: none; }
 
 .content {
   overflow: auto;
